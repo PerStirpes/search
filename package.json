@@ -1,0 +1,9 @@
+{
+  "name": "algolia",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/PerStirpes/search.git",
+  "author": "me",
+  "license": "MIT",
+  "private": true
+}
